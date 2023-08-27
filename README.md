@@ -1,0 +1,1 @@
+Uma operação muito interessante que Python fornece para manipulação de strings é o fatiamento (slicing). Fatiamento significa extrair apenas uma parte da string, ou seja, uma substring. Com essa operação, podemos delimitar os limites inferior e superior do pedaço da string que queremos acessar.
