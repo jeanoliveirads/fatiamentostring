@@ -2,7 +2,7 @@
 Exercício
 Peça ao usuário para digitar seu nome
 Peça ao usuário para digitar sua idade
-Se nome e idade forem digitados:
+Se nome e idade forem digitados
     Exiba:
         Seu nome é {nome}
         Seu nome invertido é {nome invertido}
