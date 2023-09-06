@@ -4,7 +4,7 @@ Fatiamento de strings
 Podemos selecionar apenas um intervalo de uma string utilizando a sintaxe abaixo:
 string[início:fim]
 """
-#exemplo básico
+#exemplo básico 
 teste = 'Olá pessoal'
 print(teste[0:3])
 
